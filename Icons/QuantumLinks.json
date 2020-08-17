@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Quantum Blog",
+        "link": "https://quantum-blog.t-mobile.com/"
+    },
+    {
+        "title": "NPPI Search",
+        "link": "https://insights.t-mobile.com/"
+    },
+    {
+        "title": "NCP Tool",
+        "link": "https://ncp.t-mobile.com/"
+    },
+    {
+        "title": "DPPI",
+        "link": "https://dppi.t-mobile.com/"
+    },
+    {
+        "title": "Parameter Baseline",
+        "link": "https://pbl.t-mobile.com/"
+    },
+    {
+        "title": "One Score Mobile",
+        "link": "https://solutions.eng.t-mobile.com/confluence/display/SEIUSERGUIDE/One+Score+Mobile+App"
+    },
+    {
+        "title": "Anomaly Detector",
+        "link": "https://anomaly-detector.t-mobile.com/"
+    }
+]
